@@ -78,8 +78,8 @@ The data preparation process included the following steps:
 ## 5. Tools & Technologies
 
 - **Microsoft Power BI:** Interactive Dashboard Development and Data Visualization.
-  - **Power Query:** Data Preparation.
-  - **DAX:** KPI Calculations and Analytical Measures.
+- **Power Query:** Data Preparation.
+- **DAX:** KPI Calculations and Analytical Measures.
 
 ## 6. Key Insights & Observations
 
